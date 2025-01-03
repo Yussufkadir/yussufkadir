@@ -1,4 +1,4 @@
-## Hi there I am Yussukadir👋
+## Hi there I am Yussufkadir👋
 
 [![Yussufkadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=yussufkadir&show_icons=true&theme=radical)](https://github.com/yussufkadir/github-readme-stats&show_icons=true)
 
