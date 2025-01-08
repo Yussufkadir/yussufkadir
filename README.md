@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yussufkadir&size_weight=0.5&count_weight=0.5&theme=radical)
 
 - 🔭 I’m currently working on Book recommendation system
-- 🌱 I’m currently learning Tensorflow
+- 🌱 I’m currently learning Tensorflow and PyTorch
 - 👯 I’m looking to collaborate on Open Source AI projects
 - 🤔 I’m looking for help with AI fundementals
 - 💬 Ask me about AI fundementals
