@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Book recommendation system with KNN
 - 🌱 I’m currently learning Tensorflow and PyTorch
-- 👯 I’m looking to collaborate on Open Source AI projects
+- 👯 I’m looking to collaborate on Open Source AI projects and Do some cool stuff related to AI
 - 🤔 I’m looking for help with AI fundementals
 - 💬 Ask me about AI fundementals
 - 📫 How to reach me: syurmen2@gmail.com
