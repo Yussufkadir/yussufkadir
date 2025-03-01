@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yussufkadir&size_weight=0.5&count_weight=0.5&theme=radical)
 
-- 🔭 I’m currently working on Book recommendation system with KNN
+- 🔭 I’m currently working on currency forecasting application
 - 🌱 I’m currently learning Tensorflow and PyTorch
 - 👯 I’m looking to collaborate on Open Source AI projects and Do some cool stuff related to AI
 - 🤔 I’m looking for help with AI fundementals
