@@ -10,8 +10,8 @@ Computer Science student passionate about AI/ML and full-stack development.
 [![My Tech Stack](https://skillicons.dev/icons?i=py,cpp,c,r,typescript,react,fastapi,postgres,aws,gcp,azure,pytorch,tensorflow,vite,&perline=5)](https://skillicons.dev)
 
 ## 🌱 Currently
-- Organizing my GitHub profile
-- Finishing documentation and final touches for some of the projects
+- Working on a job recommender system based on CV's.
+- Working on creating AI powered Applications
 - Studying LLMs
 
 ## 📪 Connect with me  
