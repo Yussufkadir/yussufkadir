@@ -11,8 +11,10 @@ Computer Science student passionate about AI/ML and full-stack development.
 
 ## 🌱 Currently
 - Working on a job recommender system based on CV's.
-- Working on creating AI powered Applications
-- Studying LLMs
+- Working on creating AI powered Applications.
+- Studying LLMs.
+- Working on Data annotation.
+- Creating a Data Lake in Azure.
 
 ## 📪 Connect with me  
 
