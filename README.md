@@ -7,7 +7,7 @@ Computer Science student passionate about AI/ML and full-stack development.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yussufkadir&size_weight=0.5&count_weight=0.5&theme=radical)
 
 ## 🛠️ Tech Stack
-[![My Tech Stack](https://skillicons.dev/icons?i=py,cpp,c,r,typescript,react,fastapi,postgres,aws,gcp,azure,pytorch,tensorflow,vite,sqlite,html,css,git&perline=5)](https://skillicons.dev)
+[![My Tech Stack](https://skillicons.dev/icons?i=py,cpp,c,bash,bun,r,js,typescript,react,fastapi,postgres,aws,gcp,azure,pytorch,tensorflow,vite,sqlite,html,css,materialui,git,github,docker,latex,mysql,npm,nodejs,postgres,sklearn,selenium,vscode&perline=5)](https://skillicons.dev)
 
 ## 🌱 Currently
 - Working on a job recommender system based on CV's.
