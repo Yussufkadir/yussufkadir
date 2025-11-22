@@ -13,7 +13,8 @@ Computer Science student passionate about AI/ML and full-stack development.
 - Working on a job recommender system based on CV's.
 - Working on creating AI powered Applications.
 - Studying LLMs.
-- Creating a web scrapper for the job recommender project
+- Creating a web scrapper for the job recommender project.
+- Polishing CV
 
 ## 📪 Connect with me  
 
