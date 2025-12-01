@@ -1,5 +1,5 @@
 ## Hi there I am Yussufkadir👋
-Computer Science student passionate about AI/ML and full-stack development.
+AI enthusiast who likes doing anything AI related.
 
 ## 📊 GitHub stats
 [![Yussufkadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=yussufkadir&show_icons=true&theme=radical)](https://github.com/yussufkadir/github-readme-stats&show_icons=true)
