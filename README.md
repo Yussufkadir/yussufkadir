@@ -13,7 +13,7 @@ AI enthusiast who likes doing anything AI related.
 - Working on a job recommender system based on CV's.
 - Working on creating AI powered Applications.
 - Studying LLMs.
-- Creating a backend, NER model with knowledge graph and frontend for my job recommender system.
+- Creating web scrapper for my project.
 
 ## 📪 Connect with me  
 
