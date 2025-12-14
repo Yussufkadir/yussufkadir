@@ -13,7 +13,7 @@ AI enthusiast who likes doing anything AI related.
 - Working on a job recommender system based on CV's.
 - Working on creating AI powered Applications.
 - Studying LLMs.
-- Creating web scrapper for my project.
+- Final touches on the job recommender platform.
 
 ## 📪 Connect with me  
 
