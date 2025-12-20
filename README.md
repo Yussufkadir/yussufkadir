@@ -1,5 +1,5 @@
 ## Hi there I am Yussufkadir👋
-AI enthusiast who likes doing anything AI related.
+AI enthusiast who likes doing anything AI related, although concentrated on LLMs and full-stack AI applications right now.
 
 ## 📊 GitHub stats
 [![Yussufkadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=yussufkadir&show_icons=true&theme=radical)](https://github.com/yussufkadir/github-readme-stats&show_icons=true)
