@@ -1,5 +1,5 @@
 ## Hi there I am Yussufkadir👋
-AI enthusiast who likes doing anything AI related, although concentrated on LLMs and full-stack AI applications right now.
+AI enthusiast who likes doing anything AI related, although concentrated on LLMs and full-stack AI applications right now and trying to write some blog posts.
 
 ## 📊 GitHub stats
 [![Yussufkadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=yussufkadir&show_icons=true&theme=radical)](https://github.com/yussufkadir/github-readme-stats&show_icons=true)
@@ -14,6 +14,7 @@ AI enthusiast who likes doing anything AI related, although concentrated on LLMs
 - Working on creating AI powered Applications.
 - Studying LLMs.
 - Few adjustments needed on recommendation results and tailoring the cv for the Job recommender platform.
+- Planning to add some options for job searching other than what it already has.
 
 ## 📪 Connect with me  
 
