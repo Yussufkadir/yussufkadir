@@ -14,6 +14,7 @@ AI enthusiast who likes doing anything AI related, although concentrated on LLMs
 - Working on creating AI powered Applications.
 - Studying LLMs.
 - Final features and touches for the job recommender platform.
+- Will start creating my own website as a portfolio page.
 
 ## 📪 Connect with me  
 
