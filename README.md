@@ -13,8 +13,7 @@ AI enthusiast who likes doing anything AI related, although concentrated on LLMs
 - Working on a job recommender system based on CV's.
 - Working on creating AI powered Applications.
 - Studying LLMs.
-- Final features and touches and design changes for the job recommender platform.
-- Will start creating my own website as a portfolio page.
+- Deployment phase of the recommender platform.
 
 ## 📪 Connect with me  
 
