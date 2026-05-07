@@ -14,6 +14,7 @@ AI enthusiast who likes doing anything AI related, although concentrated on LLMs
 - Working on creating AI powered Applications.
 - Studying LLMs.
 - Working on optimizing local models via MetalKernel.
+- Leetcode Grind
 
 ## 📪 Connect with me  
 
